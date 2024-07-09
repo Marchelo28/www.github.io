@@ -1,0 +1,29 @@
+.borde{
+    border-style: double;
+    border-color: yellow;
+    border-radius: 28px;
+    border-width: 14px;
+}
+
+/*#fondo{
+    /*color: white;*/
+    /*color: whitesmoke;
+    background-color: blue;
+    height: 800px;
+    /*opacity: 1.1;*/
+    /*background-image: url(26-DSC_4484.jpg);
+    /*background-size: auto;*/
+    /*background-repeat: repeat-y;
+    /*background-position: right;
+}*/
+#fondo{
+    /*color: white;*/
+    color: salmon;
+    background-color: black;
+    height: 800px;
+    /*opacity: 1.1;*/
+    background-image: url(bw-night-images-of-street-in-the-bronx-new-york-FEEFYP.jpg);
+    /*background-size: auto;*/
+    background-repeat: repeat-x;
+    background-position: left;
+}
